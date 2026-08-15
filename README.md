@@ -4,7 +4,6 @@ Xem hướng dẫn step-by-step ở website: https://codelabs.vlearn.dev/codelab
 Đăng nhập bằng tài khoản vlearn đã được kích hoạt:
 - Tên tài khoản: mail vinuni
 - Mật khẩu: mã số sinh viên
-
 ## Mục Tiêu
 
 Sau buổi lab này, bạn sẽ:
